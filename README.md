@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&weight=900&size=28&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=800&height=60&lines=Aspiring+Data+Scientist+🚀;AI+Engineer+%7C+Machine+Learning+Engineer+🤖;Turning+Data+Into+Insights+📊;Python+%7C+SQL+%7C+Power+BI+💡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&weight=900&size=28&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=800&height=60&lines=Aspiring+Data+Scientist+🚀;Data+Analytics+%7C+Machine+Learning+Engineer+🤖;Turning+Data+Into+Insights+📊;Python+%7C+SQL+%7C+Power+BI+💡)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,9 +17,7 @@
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-    About Me
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+     👤 About Me 💻
   </h2>
 </div>
 
@@ -161,7 +159,7 @@ print(me.goal())
 ## 💡 Fun Facts
 
 - 🏏 **Cricket Fan**: Love analyzing cricket statistics
-- 🎱 **8 Ball Pool nthusiast**: Reached Level 70+ and still climbing
+- 🎱 **8 Ball Pool enthusiast**: Reached Level 70+ and still climbing
 - 🧩 **Problem Solver**: Solved 500+ coding challenges across platforms
 - 🌍 **Traveler**: Passionate about exploring new cultures and cuisines
 - 📖 **Continuous Learner**: Always learning new technologies and techniques
@@ -171,15 +169,7 @@ print(me.goal())
 
 ### 🌟 "Data is the new oil, and I'm here to refine it!" 🌟
 
-### Thanks for visiting my profile! Feel free to reach out for collaborations or just a friendly chat! 🚀
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
-
 </div>
-
-
 
 
 
@@ -212,3 +202,13 @@ print(me.goal())
 </h3>
 
 
+
+<div align="center">
+
+### Thanks for visiting my profile! Feel free to reach out for collaborations or just a friendly chat! 🚀
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
+
+</div>
